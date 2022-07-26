@@ -2219,7 +2219,7 @@ input, select, textarea {
 
 			#main > section.dark {
 				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: rgb(235, 235, 235);
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/photos/calodesmoro.jpg");
 			}
 
 			#main > section.two {
